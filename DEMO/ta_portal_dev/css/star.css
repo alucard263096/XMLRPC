@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.studyplay_starBg{
+	 background:url(./../images/movie/start.gif) 0 -16px; top:0; left:0; height:16px; padding:0px; cursor:pointer;
+	}
+.studyplay_starovering{
+	background:url(./../images/movie/start.gif); height:16px; position:absolute; top:0; left:0;
+}
+.studyplay_starON{
+	 position:absolute; top:0; left:0;
+}
+
+

@@ -1,0 +1,11 @@
+12/11/2010 04:49:55 [error]: sql error :usp_print_ticket '1017,1018'
+12/11/2010 07:04:14 [error]: sql error :usp_get_show_by_id ,3
+12/11/2010 07:04:14 [error]: sql error :usp_get_show_info_by_id ,1
+12/11/2010 07:04:14 [error]: sql error :usp_get_floor_seat_plan_detail_by_show_id 
+12/11/2010 10:49:56 [error]: sql error :usp_get_show_by_id ,2
+12/11/2010 10:49:56 [error]: sql error :usp_get_show_info_by_id ,1
+12/11/2010 10:49:58 [error]: sql error :usp_get_show_by_id ,2
+12/11/2010 10:49:58 [error]: sql error :usp_get_show_info_by_id ,1
+12/11/2010 10:51:56 [error]: sql error :usp_get_show_by_id ,2
+12/11/2010 10:51:56 [error]: sql error :usp_get_show_info_by_id ,1
+12/11/2010 10:51:56 [error]: sql error :usp_get_floor_seat_plan_detail_by_show_id 

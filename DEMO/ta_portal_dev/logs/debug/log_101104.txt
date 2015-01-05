@@ -1,0 +1,414 @@
+04/11/2010 07:32:43 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getCountryCityDistrictList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 2) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:32:46 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:32:46 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:33:39 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:33:39 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:33:53 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:33:53 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:34:25 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:34:25 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:34:59 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:34:59 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:36:34 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:36:34 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:37:40 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:37:40 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:50:24 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 07:50:24 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 3) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 08:17:38 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getCountryCityDistrictList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 2) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 08:17:40 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+04/11/2010 08:17:40 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

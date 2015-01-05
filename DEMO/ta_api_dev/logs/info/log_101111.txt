@@ -1,0 +1,190 @@
+11/11/2010 01:49:37 [info]: ==============>IncOMeIng
+11/11/2010 01:49:41 [info]: ==============>IncOMeIng
+11/11/2010 01:49:48 [info]: ==============>IncOMeIng
+11/11/2010 01:51:01 [info]: ==============>IncOMeIng
+11/11/2010 01:55:54 [info]: ==============>IncOMeIng
+11/11/2010 01:55:58 [info]: ==============>IncOMeIng
+11/11/2010 02:00:05 [info]: ==============>IncOMeIng
+11/11/2010 02:01:15 [info]: ==============>IncOMeIng
+11/11/2010 02:06:41 [info]: ==============>IncOMeIng
+11/11/2010 02:07:37 [info]: ==============>IncOMeIng
+11/11/2010 02:25:10 [info]: ==============>IncOMeIng
+11/11/2010 02:25:26 [info]: ==============>IncOMeIng
+11/11/2010 02:31:20 [info]: ==============>IncOMeIng
+11/11/2010 03:10:27 [info]: ==============>IncOMeIng
+11/11/2010 03:10:27 [info]: ----->a
+11/11/2010 03:11:08 [info]: ==============>IncOMeIng
+11/11/2010 03:11:08 [info]: ----->a
+11/11/2010 03:11:14 [info]: ==============>IncOMeIng
+11/11/2010 03:11:17 [info]: ==============>IncOMeIng
+11/11/2010 03:11:56 [info]: ==============>IncOMeIng
+11/11/2010 03:11:59 [info]: ==============>IncOMeIng
+11/11/2010 03:41:37 [info]: ==============>IncOMeIng
+11/11/2010 07:04:50 [info]: ==============>IncOMeIng
+11/11/2010 07:05:13 [info]: <p>	縱橫樂壇廿二年，風采依然的關淑怡將首度踏足澳門舉行演唱會。Shirley將演唱令人陶醉的經典金曲: 難得有情人、繾綣星光下、一首獨唱的歌、夜迷宮及其備受好評的專輯《Ex All Time Favorites》內多首悅耳歌曲。 繼兩年前於香港個唱之後，關淑怡再次帶大家走進其獨有的音樂世界。關淑怡繞梁三日的歌聲，必定令澳門樂迷大飽耳福、如癡如醉。</p>
+11/11/2010 07:05:13 [info]: <p>	縱橫樂壇廿二年，風采依然的關淑怡將首度踏足澳門舉行演唱會。Shirley將演唱令人陶醉的經典金曲: 難得有情人、繾綣星光下、一首獨唱的歌、夜迷宮及其備受好評的專輯《Ex All Time Favorites》內多首悅耳歌曲。 繼兩年前於香港個唱之後，關淑怡再次帶大家走進其獨有的音樂世界。關淑怡繞梁三日的歌聲，必定令澳門樂迷大飽耳福、如癡如醉。</p>
+11/11/2010 07:05:14 [info]: ==============>IncOMeIng
+11/11/2010 07:05:19 [info]: ==============>IncOMeIng
+11/11/2010 07:57:54 [info]: ==============>IncOMeIng
+11/11/2010 07:57:56 [info]: ==============>IncOMeIng
+11/11/2010 08:10:18 [info]: ==============>IncOMeIng
+11/11/2010 08:10:18 [info]: ----->a
+11/11/2010 08:13:43 [info]: ==============>IncOMeIng
+11/11/2010 08:13:43 [info]: ----->a
+11/11/2010 08:14:17 [info]: ==============>IncOMeIng
+11/11/2010 08:14:17 [info]: ----->a
+11/11/2010 08:15:25 [info]: ==============>IncOMeIng
+11/11/2010 08:15:25 [info]: ----->a
+11/11/2010 08:15:54 [info]: ==============>IncOMeIng
+11/11/2010 08:15:54 [info]: ----->a
+11/11/2010 08:16:41 [info]: ==============>IncOMeIng
+11/11/2010 08:16:41 [info]: ----->a
+11/11/2010 08:16:54 [info]: ==============>IncOMeIng
+11/11/2010 08:16:54 [info]: ----->a
+11/11/2010 08:18:58 [info]: ==============>IncOMeIng
+11/11/2010 08:18:58 [info]: ----->a
+11/11/2010 08:22:59 [info]: ==============>IncOMeIng
+11/11/2010 08:24:35 [info]: ==============>IncOMeIng
+11/11/2010 08:24:35 [info]: ----->a
+11/11/2010 08:24:45 [info]: ==============>IncOMeIng
+11/11/2010 08:24:50 [info]: ==============>IncOMeIng
+11/11/2010 08:25:33 [info]: ==============>IncOMeIng
+11/11/2010 08:25:33 [info]: ----->a
+11/11/2010 08:25:39 [info]: ==============>IncOMeIng
+11/11/2010 09:03:27 [info]: ==============>IncOMeIng
+11/11/2010 09:03:27 [info]: ----->a
+11/11/2010 12:34:43 [info]: ==============>IncOMeIng
+11/11/2010 12:41:44 [info]: ==============>IncOMeIng
+11/11/2010 12:59:36 [info]: ==============>IncOMeIng
+11/11/2010 12:59:54 [info]: ==============>IncOMeIng
+11/11/2010 13:00:00 [info]: ==============>IncOMeIng
+11/11/2010 13:02:52 [info]: Send  SMS 817 success
+11/11/2010 13:03:07 [info]: Send  SMS 817 success
+11/11/2010 13:05:20 [info]: ==============>IncOMeIng
+11/11/2010 13:05:30 [info]: Send  SMS 817 success
+11/11/2010 13:05:50 [info]: Send  SMS 817 success
+11/11/2010 13:05:55 [info]: ==============>IncOMeIng
+11/11/2010 13:06:59 [info]: ==============>IncOMeIng
+11/11/2010 13:07:02 [info]: ==============>IncOMeIng
+11/11/2010 13:07:04 [info]: ==============>IncOMeIng
+11/11/2010 13:07:06 [info]: ==============>IncOMeIng
+11/11/2010 13:07:08 [info]: ==============>IncOMeIng
+11/11/2010 13:07:14 [info]: ==============>IncOMeIng
+11/11/2010 13:07:24 [info]: <p>	香港楝笃笑之王黄子华，今年正值演出20周年纪念，首次踏足红馆，与大家分享娱乐圈血肉史，保证令你拍案叫绝，笑中有泪！</p>
+11/11/2010 13:07:24 [info]: <p>	香港楝笃笑之王黄子华，今年正值演出20周年纪念，首次踏足红馆，与大家分享娱乐圈血肉史，保证令你拍案叫绝，笑中有泪！</p>
+11/11/2010 13:07:25 [info]: ==============>IncOMeIng
+11/11/2010 13:08:43 [info]: Send  SMS aaaaaaaaaaaaaaaaa success
+11/11/2010 13:08:52 [info]: Send  SMS aaaaaaaaaaaaaaaaa success
+11/11/2010 13:10:03 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:10:04 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:10:06 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:10:07 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:10:08 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:10:10 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:10:13 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:10:15 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:10:18 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:15:26 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:15:30 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:15:33 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:15:36 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:15:40 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:15:43 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:15:45 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:15:49 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:15:52 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:15:54 [info]: Send  SMS aaaaaaaaaaaaaaaaa success
+11/11/2010 13:16:13 [info]: Send  SMS aaaaaaaaaaaaaaaaa success
+11/11/2010 13:17:13 [info]: Send  SMS aaaaaaaaaaaaaaaaa success
+11/11/2010 13:17:16 [info]: Send  SMS aaaaaaaaaaaaaaaaa success
+11/11/2010 13:24:46 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:46 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:47 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:47 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:47 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:48 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:48 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:48 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:49 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:49 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:49 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:50 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:50 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:50 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:51 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:51 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:52 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:52 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:52 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:24:53 [info]: Send  SMS aaaaaaaaaaaaaaaaa error
+11/11/2010 13:25:03 [info]: Send  SMS aaaaaaaaaaaaaaaaa success
+11/11/2010 13:31:11 [info]: ==============>IncOMeIng
+11/11/2010 13:32:21 [info]: Send  SMS     success
+11/11/2010 13:34:03 [info]: ==============>IncOMeIng
+11/11/2010 13:34:04 [info]: ==============>IncOMeIng
+11/11/2010 13:34:05 [info]: ==============>IncOMeIng
+11/11/2010 13:34:06 [info]: ==============>IncOMeIng
+11/11/2010 13:34:09 [info]: ==============>IncOMeIng
+11/11/2010 13:34:13 [info]: ==============>IncOMeIng
+11/11/2010 13:35:23 [info]: Send  SMS     success
+11/11/2010 13:38:26 [info]: ==============>IncOMeIng
+11/11/2010 13:38:27 [info]: ==============>IncOMeIng
+11/11/2010 13:38:29 [info]: ==============>IncOMeIng
+11/11/2010 13:38:32 [info]: ==============>IncOMeIng
+11/11/2010 13:38:33 [info]: ==============>IncOMeIng
+11/11/2010 13:38:34 [info]: ==============>IncOMeIng
+11/11/2010 13:38:36 [info]: ==============>IncOMeIng
+11/11/2010 13:38:38 [info]: ==============>IncOMeIng
+11/11/2010 13:38:42 [info]: ==============>IncOMeIng
+11/11/2010 13:40:25 [info]: Send  SMS     success
+11/11/2010 13:42:40 [info]: ==============>IncOMeIng
+11/11/2010 13:42:42 [info]: ==============>IncOMeIng
+11/11/2010 13:42:43 [info]: ==============>IncOMeIng
+11/11/2010 13:42:45 [info]: ==============>IncOMeIng
+11/11/2010 13:42:47 [info]: ==============>IncOMeIng
+11/11/2010 13:42:52 [info]: ==============>IncOMeIng
+11/11/2010 13:43:53 [info]: Send  SMS    error
+11/11/2010 13:43:53 [info]: Send  SMS    error
+11/11/2010 13:43:54 [info]: Send  SMS    error
+11/11/2010 13:43:54 [info]: Send  SMS    error
+11/11/2010 13:43:54 [info]: Send  SMS    error
+11/11/2010 13:43:55 [info]: Send  SMS    error
+11/11/2010 13:43:55 [info]: Send  SMS    error
+11/11/2010 13:43:55 [info]: Send  SMS    error
+11/11/2010 13:43:56 [info]: Send  SMS    error
+11/11/2010 13:43:56 [info]: Send  SMS    error
+11/11/2010 13:47:38 [info]: ==============>IncOMeIng
+11/11/2010 13:47:42 [info]: ==============>IncOMeIng
+11/11/2010 13:48:05 [info]: ==============>IncOMeIng
+11/11/2010 13:48:07 [info]: ==============>IncOMeIng
+11/11/2010 13:48:08 [info]: ==============>IncOMeIng
+11/11/2010 13:48:12 [info]: ==============>IncOMeIng
+11/11/2010 13:49:25 [info]: Send  SMS    error
+11/11/2010 13:49:26 [info]: Send  SMS    error
+11/11/2010 13:49:26 [info]: Send  SMS    error
+11/11/2010 13:49:26 [info]: Send  SMS    error
+11/11/2010 13:49:27 [info]: Send  SMS    error
+11/11/2010 13:49:27 [info]: Send  SMS    error
+11/11/2010 13:49:27 [info]: Send  SMS    error
+11/11/2010 13:49:28 [info]: Send  SMS    error
+11/11/2010 13:49:28 [info]: Send  SMS    error
+11/11/2010 13:49:28 [info]: Send  SMS    error
+11/11/2010 13:54:07 [info]: Send  SMS    error
+11/11/2010 13:54:08 [info]: Send  SMS    error
+11/11/2010 13:54:08 [info]: Send  SMS    error
+11/11/2010 13:54:08 [info]: Send  SMS    error
+11/11/2010 13:54:09 [info]: Send  SMS    error
+11/11/2010 13:54:09 [info]: Send  SMS    error
+11/11/2010 13:54:10 [info]: Send  SMS    error
+11/11/2010 13:54:10 [info]: Send  SMS    error
+11/11/2010 13:54:10 [info]: Send  SMS    error
+11/11/2010 13:54:11 [info]: Send  SMS    error
+11/11/2010 13:55:04 [info]: ==============>IncOMeIng
+11/11/2010 13:55:05 [info]: ==============>IncOMeIng
+11/11/2010 13:55:06 [info]: ==============>IncOMeIng
+11/11/2010 13:55:08 [info]: ==============>IncOMeIng
+11/11/2010 13:55:11 [info]: ==============>IncOMeIng
+11/11/2010 13:55:14 [info]: ==============>IncOMeIng
+11/11/2010 13:55:15 [info]: ==============>IncOMeIng
+11/11/2010 13:55:19 [info]: ==============>IncOMeIng
+11/11/2010 13:57:02 [info]: Send  SMS 89483734               13751082562          success

@@ -1,0 +1,12 @@
+.button300{background:url(./../images/zh-tc/movie/button_login_now.gif) no-repeat;width: 135px;height: 38px;border: 0px;cursor:pointer;}
+.button312{background:url(./../images/zh-tc/movie/button_submit_registry_msg.gif) no-repeat;width: 133px;height: 40px;border: 0px;cursor:pointer;}
+
+.ticketingButton {
+	background:url(./../images/zh-tc/movie/movie-cinema-with-price_13.png) no-repeat;
+	width: 80px;
+	height: 21px;
+	border: 0px;
+	color: #000000;
+	cursor:pointer;
+}
+

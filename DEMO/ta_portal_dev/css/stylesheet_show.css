@@ -1,0 +1,47 @@
+
+
+.showmorelink:link {font-size : 11px;color: #601896;text-decoration: none;}	
+.showmorelink:visited {font-size : 11px;color: #601896;text-decoration: none;}
+.showmorelink:hover {font-size : 11px;color: #601896;text-decoration: underline;}
+
+.showname_20px {color : #0463C0;font-size:20px;padding: 0px 0px 0px 0px;line-height:30px}
+.showname_20px_wb {color : #53A4D3;font-size:20px;padding: 0px 0px 0px 0px;line-height:30px}
+.showname_20px_p {color : #601896;font-size:20px;padding: 0px 0px 0px 0px;line-height:30px}
+.showname_20px_b {color : #000000;font-size:20px;padding: 0px 0px 0px 0px;line-height:30px}
+.showname_16px_p {color : #000000;font-size:16px;padding: 0px 0px 0px 0px;line-height:30px}
+.showname_13px_wb {color : #601896;font-size:13px;padding: 0px 0px 0px 0px;}
+
+.district_div{#position: relative;  #top: +30%; display: table-cell; vertical-align: middle;}
+.selecttext {color:#FFFFFF;text-decoration: none;font-weight: bold;margin-left: 20px;}
+.formsearch130 {color : #666666;font-size : 11px;width:130px;height:15px;margin-right:0px;border: 1px solid #ffffff;BACKGROUND-COLOR: transparent;}
+.showtable_right_5pxguid {padding: 5px 0px 5px 0px;}
+
+.show_detail_bg{
+}
+.show_detail_bg td
+{
+	color:#fffff;
+}
+.introduction_td{
+	background-color:#F5F5F5;
+	padding:10px;
+}
+
+.venue_title_bg{
+background:#EEECEE;
+border:solid 2 #E6E6E6;
+}
+.venue_image_bg{
+background:#ffffff;
+border:solid 2 #000000;
+}
+.choose_img_bg{
+background-image:url(../images/show_photo_frame_bg.gif);
+width: 268px;
+height: 188px;
+padding:10px;
+}
+
+.choose_bg{
+background-image:url(../images/login_bg_purple.jpg);
+}

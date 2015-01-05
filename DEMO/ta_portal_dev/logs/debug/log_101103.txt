@@ -1,0 +1,338 @@
+03/11/2010 10:12:35 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 2) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (image_type => ) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 0
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:23:56 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: insertPayeaseLog
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (payease_url => http://pay.beijing.com.cn/prs/user_payment.checkit) 
+[Web Service Client] (mid => 4441) 
+[Web Service Client] (ymd => 20101103) 
+[Web Service Client] (trans_time => 20101103) 
+[Web Service Client] (trans_id => ) 
+[Web Service Client] (oid => 20101103-4441-) 
+[Web Service Client] (rcvname => ) 
+[Web Service Client] (rcvaddr => ) 
+[Web Service Client] (rcvtel => 0) 
+[Web Service Client] (v_rcvpost => ) 
+[Web Service Client] (amount => ) 
+[Web Service Client] (orderstatus => 0) 
+[Web Service Client] (ordername => ) 
+[Web Service Client] (moneytype => 0) 
+[Web Service Client] (url => http://localhost/ta_portal_dev/payment/payment_result.php) 
+[Web Service Client] (md5info => cc662f892ed39139d169c1b6d8b28117) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:24:10 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: insertPayeaseLog
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (payease_url => http://pay.beijing.com.cn/prs/user_payment.checkit) 
+[Web Service Client] (mid => 4441) 
+[Web Service Client] (ymd => 20101103) 
+[Web Service Client] (trans_time => 20101103) 
+[Web Service Client] (trans_id => ) 
+[Web Service Client] (oid => 20101103-4441-) 
+[Web Service Client] (rcvname => ) 
+[Web Service Client] (rcvaddr => ) 
+[Web Service Client] (rcvtel => 0) 
+[Web Service Client] (v_rcvpost => ) 
+[Web Service Client] (amount => ) 
+[Web Service Client] (orderstatus => 0) 
+[Web Service Client] (ordername => ) 
+[Web Service Client] (moneytype => 0) 
+[Web Service Client] (url => http://localhost/ta_portal_dev/payment/payment_result.php) 
+[Web Service Client] (md5info => cc662f892ed39139d169c1b6d8b28117) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:25:29 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 2) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (image_type => ) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getHotEventBanner Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:29:44 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 2) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (image_type => ) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 0
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:30:02 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 2) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (image_type => ) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 0
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:43:47 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 2) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (image_type => ) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getHotEventBanner Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:44:04 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getShowDetails Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:44:33 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getCountryCityDistrictList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 2) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:44:34 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:44:34 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:45:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:45:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:49:03 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:49:03 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:49:05 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getShowDetails Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:49:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:49:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:50:39 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getShowDetails Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:51:15 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getShowDetails Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+03/11/2010 10:53:57 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getShowDetails Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

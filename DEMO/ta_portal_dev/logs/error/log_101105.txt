@@ -1,0 +1,22 @@
+05/11/2010 06:05:44 [error]: [Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+05/11/2010 06:05:44 [error]: [Payment] insert payment log error!
+05/11/2010 06:05:45 [error]: [Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+05/11/2010 06:05:45 [error]: [Payment] insert payment log error!
+05/11/2010 06:05:45 [error]: [Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+05/11/2010 06:05:45 [error]: [Payment] insert payment log error!
+05/11/2010 06:05:46 [error]: [Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+05/11/2010 06:05:46 [error]: [Payment] insert payment log error!
+05/11/2010 06:20:03 [error]: [Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+05/11/2010 06:20:03 [error]: [Payment] insert payment log error!
+05/11/2010 06:20:05 [error]: [Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+05/11/2010 06:20:05 [error]: [Payment] insert payment log error!
+05/11/2010 06:20:14 [error]: [Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+05/11/2010 06:20:14 [error]: [Payment] insert payment log error!
+05/11/2010 06:20:20 [error]: [Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+05/11/2010 06:20:20 [error]: [Payment] insert payment log error!
+05/11/2010 08:28:10 [error]: [Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+05/11/2010 08:28:10 [error]: [Payment] insert payment log error!
+05/11/2010 08:28:59 [error]: [Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+05/11/2010 08:28:59 [error]: [Payment] insert payment log error!
+05/11/2010 08:43:08 [error]: [Web Service Client] Cannot get result from server - Method name: insertPayeaseLog Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+05/11/2010 08:43:08 [error]: [Payment] insert payment log error!

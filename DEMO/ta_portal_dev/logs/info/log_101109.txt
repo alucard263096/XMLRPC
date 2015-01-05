@@ -1,0 +1,176 @@
+09/11/2010 08:56:39 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 08:56:39 [info]: [Asiapay] Checking feed: 
+09/11/2010 08:56:39 [info]: [Asiapay] Set Payment Result 
+09/11/2010 08:56:39 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 08:56:39 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => WB104800)
+[Payment] (result => C)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 0)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 08:59:54 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 08:59:54 [info]: [Asiapay] Checking feed: 
+09/11/2010 08:59:54 [info]: [Asiapay] Set Payment Result 
+09/11/2010 08:59:54 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 08:59:54 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => WB104810)
+[Payment] (result => C)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 0)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:02:36 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 09:02:36 [info]: [Asiapay] Checking feed: 
+09/11/2010 09:02:36 [info]: [Asiapay] Set Payment Result 
+09/11/2010 09:02:36 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:02:36 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => )
+[Payment] (result => C)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 1)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:03:22 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 09:03:22 [info]: [Asiapay] Checking feed: 
+09/11/2010 09:03:22 [info]: [Asiapay] Set Payment Result 
+09/11/2010 09:03:22 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:03:22 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => )
+[Payment] (result => C)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 1)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:13:05 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 09:13:05 [info]: [Asiapay] Checking feed: 
+09/11/2010 09:13:05 [info]: [Asiapay] Set Payment Result 
+09/11/2010 09:13:05 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:13:05 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => )
+[Payment] (result => C)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 1)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:14:00 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 09:14:00 [info]: [Asiapay] Checking feed: 
+09/11/2010 09:14:00 [info]: [Asiapay] Set Payment Result 
+09/11/2010 09:14:00 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:14:00 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => )
+[Payment] (result => C)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 1)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:15:42 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 09:15:42 [info]: [Asiapay] Checking feed: 
+09/11/2010 09:15:42 [info]: [Asiapay] Set Payment Result 
+09/11/2010 09:15:42 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:15:42 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => )
+[Payment] (result => C)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 1)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:16:13 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 09:16:13 [info]: [Asiapay] Checking feed: 
+09/11/2010 09:16:13 [info]: [Asiapay] Set Payment Result 
+09/11/2010 09:16:13 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:16:13 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => )
+[Payment] (result => C)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 1)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:18:24 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 09:18:24 [info]: [Asiapay] Checking feed: 
+09/11/2010 09:18:24 [info]: [Asiapay] Set Payment Result 
+09/11/2010 09:18:24 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:18:24 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => )
+[Payment] (result => Y)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 1)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:18:32 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 09:18:32 [info]: [Asiapay] Checking feed: 
+09/11/2010 09:18:32 [info]: [Asiapay] Set Payment Result 
+09/11/2010 09:18:32 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:18:32 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => )
+[Payment] (result => Y)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 1)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:19:38 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 09:19:38 [info]: [Asiapay] Checking feed: 
+09/11/2010 09:19:38 [info]: [Asiapay] Set Payment Result 
+09/11/2010 09:19:38 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:19:38 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => WB104820)
+[Payment] (result => Y)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 0)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:25:13 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 09:25:13 [info]: [Asiapay] Checking feed: 
+09/11/2010 09:25:13 [info]: [Asiapay] Set Payment Result 
+09/11/2010 09:25:13 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:25:13 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => )
+[Payment] (result => Y)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 1)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:25:16 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 09:25:16 [info]: [Asiapay] Checking feed: 
+09/11/2010 09:25:16 [info]: [Asiapay] Set Payment Result 
+09/11/2010 09:25:16 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:25:16 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => )
+[Payment] (result => Y)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 1)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:35:16 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+09/11/2010 09:35:16 [info]: [Asiapay] Checking feed: 
+09/11/2010 09:35:16 [info]: [Asiapay] Set Payment Result 
+09/11/2010 09:35:16 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 09:35:16 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => WB104830)
+[Payment] (result => Y)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 0)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+09/11/2010 15:18:03 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => WB104850)
+[Payment] (result => C)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: 
+[Payment] (result_code => 0)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 

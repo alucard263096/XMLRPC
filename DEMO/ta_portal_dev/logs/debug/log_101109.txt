@@ -1,0 +1,2067 @@
+09/11/2010 13:24:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: test
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: test Error: 17 Message: Internal server error: function does not return xmlrpcresp object
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 13:24:22 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: test
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: test Error: 17 Message: Internal server error: function does not return xmlrpcresp object
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 13:24:23 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: test
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: test Error: 17 Message: Internal server error: function does not return xmlrpcresp object
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 13:24:30 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: test
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: test Error: 17 Message: Internal server error: function does not return xmlrpcresp object
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 13:24:32 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: test
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: test Error: 17 Message: Internal server error: function does not return xmlrpcresp object
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 13:27:55 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: test
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: test Error: 17 Message: Internal server error: function does not return xmlrpcresp object
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:10:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: test
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: test Error: 17 Message: Internal server error: function does not return xmlrpcresp object
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:13 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getCountryCityDistrictList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 2) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:14 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:14 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:16 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:16 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:17 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (image_type => MO_MHRB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:17 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventSortAttendance
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 9
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:17 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getOrganizerVenueList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:17 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEvent
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 21
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:17 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:39 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_MHRB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:39 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventSortAttendance
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 9
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:40 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getOrganizerVenueList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:40 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEvent
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 21
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:40 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:51 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:11:51 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatplanByShowId
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeatplanByShowId Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:03 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:03 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatplanByShowId
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 9
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCountry
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCity
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryDistrict
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeatTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAllDelivery
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:14 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: setTrans
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (ticket_type => ) 
+[Web Service Client] (name => asdasd) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@asd.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: setTrans Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:16 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:16 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatplanByShowId
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 9
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:19 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCountry
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (ticket_type => ) 
+[Web Service Client] (name => asdasd) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@asd.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:19 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCity
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (ticket_type => ) 
+[Web Service Client] (name => asdasd) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@asd.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryDistrict
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (ticket_type => ) 
+[Web Service Client] (name => asdasd) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@asd.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeatTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:12:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAllDelivery
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:13:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCountry
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:13:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCity
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:13:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryDistrict
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:13:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:13:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeatTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:13:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:13:06 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAllDelivery
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:15:50 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCountry
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:15:50 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCity
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:15:50 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryDistrict
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:15:51 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:15:51 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeatTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:15:51 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:15:51 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAllDelivery
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:17:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCountry
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:17:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCity
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:17:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryDistrict
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:17:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:17:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeatTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:17:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:17:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAllDelivery
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:19:18 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCountry
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:19:18 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCity
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:19:18 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryDistrict
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:19:18 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:19:18 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeatTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:19:18 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:19:18 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAllDelivery
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:25:08 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCountry
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:25:08 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCity
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:25:09 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryDistrict
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:25:09 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:25:09 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:25:09 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:25:09 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAllDelivery
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:38:51 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: test
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:38:59 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getCountryCityDistrictList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 2) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:39:01 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:39:01 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:39:02 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:39:02 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:39:03 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (image_type => MO_MHRB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:39:03 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventSortAttendance
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 9
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:39:03 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getOrganizerVenueList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:39:03 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEvent
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 21
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:39:04 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:39:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:39:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatplanByShowId
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 9
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:41:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCountry
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:41:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCity
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:41:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryDistrict
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:41:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:41:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:41:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:41:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAllDelivery
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:41:47 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: setTrans
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (ticket_type => 95,) 
+[Web Service Client] (name => aaa) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@a.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 7
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:41:47 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: insertAsiapayAuthlog
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (merchantID => 88103054) 
+[Web Service Client] (currCode => 344) 
+[Web Service Client] (successUrl => http://localhost/ta_portal_dev/payment/payment_result.php) 
+[Web Service Client] (failUrl => http://localhost/ta_portal_dev/payment/payment_result.php) 
+[Web Service Client] (cancelUrl => http://localhost/ta_portal_dev/payment/payment_cancel.php) 
+[Web Service Client] (errorUrl => http://localhost/ta_portal_dev/payment/payment_result.php) 
+[Web Service Client] (lang => C) 
+[Web Service Client] (actionUrl => https://test.paydollar.com/b2cDemo/eng/payment/payForm.jsp) 
+[Web Service Client] (transid => 786) 
+[Web Service Client] (orderRef => WB104840) 
+[Web Service Client] (amount => 100.00) 
+[Web Service Client] (payMethod => CHINAPAY) 
+[Web Service Client] (payType => N) 
+[Web Service Client] (cardNo => ) 
+[Web Service Client] (securityCode => ) 
+[Web Service Client] (epMonth => ) 
+[Web Service Client] (epYear => ) 
+[Web Service Client] (cardHolder => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:44:53 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:44:53 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatplanByShowId
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 9
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:17:13 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCountry
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (ticket_type => 95,) 
+[Web Service Client] (name => aaa) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@a.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:17:13 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCity
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (ticket_type => 95,) 
+[Web Service Client] (name => aaa) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@a.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:17:14 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryDistrict
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62357,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (ticket_type => 95,) 
+[Web Service Client] (name => aaa) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@a.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:17:14 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:17:14 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:17:14 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:17:14 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAllDelivery
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:17:24 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: setTrans
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (ticket_type => 95,) 
+[Web Service Client] (name => asdasd) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@a.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 7
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:17:24 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: insertAsiapayAuthlog
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (merchantID => 88103054) 
+[Web Service Client] (currCode => 344) 
+[Web Service Client] (successUrl => http://localhost/ta_portal_dev/payment/payment_result.php) 
+[Web Service Client] (failUrl => http://localhost/ta_portal_dev/payment/payment_result.php) 
+[Web Service Client] (cancelUrl => http://localhost/ta_portal_dev/payment/payment_cancel.php) 
+[Web Service Client] (errorUrl => http://localhost/ta_portal_dev/payment/payment_result.php) 
+[Web Service Client] (lang => C) 
+[Web Service Client] (actionUrl => https://test.paydollar.com/b2cDemo/eng/payment/payForm.jsp) 
+[Web Service Client] (transid => 787) 
+[Web Service Client] (orderRef => WB104850) 
+[Web Service Client] (amount => 100.00) 
+[Web Service Client] (payMethod => CHINAPAY) 
+[Web Service Client] (payType => N) 
+[Web Service Client] (cardNo => ) 
+[Web Service Client] (securityCode => ) 
+[Web Service Client] (epMonth => ) 
+[Web Service Client] (epYear => ) 
+[Web Service Client] (cardHolder => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:18:03 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: setPaymentResult
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (result => C) 
+[Web Service Client] (fail_remark => ) 
+[Web Service Client] (ref => WB104850) 
+[Web Service Client] (ref_no => WB104850) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:18:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_MHRB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:18:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventSortAttendance
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 9
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:18:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:18:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getOrganizerVenueList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:18:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEvent
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => MO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 21
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:18:10 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:18:10 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatplanByShowId
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 9
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:52:04 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCountry
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (ticket_type => 95,) 
+[Web Service Client] (name => asdasd) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@a.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:52:04 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCity
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (ticket_type => 95,) 
+[Web Service Client] (name => asdasd) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@a.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:52:04 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryDistrict
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (ticket_type => 95,) 
+[Web Service Client] (name => asdasd) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@a.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:52:04 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 81
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:52:04 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:52:04 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:52:04 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAllDelivery
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:52:14 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: setTrans
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 892) 
+[Web Service Client] (seat_list => 62359,) 
+[Web Service Client] (ticket_group_id => 124) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (payment_gateway_type => asiapay) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (ticket_type => 95,) 
+[Web Service Client] (name => asdasd) 
+[Web Service Client] (phone_no => 123123123) 
+[Web Service Client] (phone_country_code => 86) 
+[Web Service Client] (email => asd@asd.com) 
+[Web Service Client] (delivery_type_id => 1) 
+[Web Service Client] (cc_no => ) 
+[Web Service Client] (holder_name => ) 
+[Web Service Client] (pt_code => DC) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 7
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:52:14 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: insertAsiapayAuthlog
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (merchantID => 88103054) 
+[Web Service Client] (currCode => 344) 
+[Web Service Client] (successUrl => http://localhost/ta_portal_dev/payment/payment_result.php) 
+[Web Service Client] (failUrl => http://localhost/ta_portal_dev/payment/payment_result.php) 
+[Web Service Client] (cancelUrl => http://localhost/ta_portal_dev/payment/payment_cancel.php) 
+[Web Service Client] (errorUrl => http://localhost/ta_portal_dev/payment/payment_result.php) 
+[Web Service Client] (lang => C) 
+[Web Service Client] (actionUrl => https://test.paydollar.com/b2cDemo/eng/payment/payForm.jsp) 
+[Web Service Client] (transid => 788) 
+[Web Service Client] (orderRef => WB104860) 
+[Web Service Client] (amount => 100.00) 
+[Web Service Client] (payMethod => CHINAPAY) 
+[Web Service Client] (payType => N) 
+[Web Service Client] (cardNo => ) 
+[Web Service Client] (securityCode => ) 
+[Web Service Client] (epMonth => ) 
+[Web Service Client] (epYear => ) 
+[Web Service Client] (cardHolder => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

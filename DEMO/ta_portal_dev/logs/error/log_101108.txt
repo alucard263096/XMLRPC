@@ -1,0 +1,21 @@
+08/11/2010 12:16:48 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:20:31 [error]: [Web Service Client] Cannot get result from server - Method name: getHotEventBanner Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+08/11/2010 12:20:31 [error]: [Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+08/11/2010 12:20:31 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:20:48 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No such handler: 
+08/11/2010 12:21:00 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No such handler: 
+08/11/2010 12:21:22 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:23:30 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:23:55 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:32:18 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:32:20 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:32:36 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:32:52 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:33:12 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:33:28 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:34:52 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:36:27 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 12:37:05 [error]: [Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+08/11/2010 13:26:22 [error]: [Web Service Client] Cannot get result from server - Method name: getShowDetails Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+08/11/2010 13:26:22 [error]: [Web Service Client] Cannot get result from server - Method name: getSeatplanByShowId Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+08/11/2010 13:26:22 [error]: [Web Service Client] Cannot get result from server - Method name: getSeatplanDetailByShowId Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)

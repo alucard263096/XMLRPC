@@ -1,0 +1,6 @@
+04/11/2010 07:32:46 [error]: [Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+04/11/2010 07:33:39 [error]: [Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+04/11/2010 07:33:53 [error]: [Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+04/11/2010 07:34:25 [error]: [Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+04/11/2010 07:34:59 [error]: [Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+04/11/2010 07:36:34 [error]: [Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)

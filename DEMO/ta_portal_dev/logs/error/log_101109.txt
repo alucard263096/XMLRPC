@@ -1,0 +1,4 @@
+09/11/2010 14:17:07 [error]: [Web Service Client] Cannot get result from server - Method name: getSeatTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+09/11/2010 14:17:07 [error]: [Web Service Client] Cannot get result from server - Method name: getTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+09/11/2010 14:19:18 [error]: [Web Service Client] Cannot get result from server - Method name: getSeatTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+09/11/2010 14:19:18 [error]: [Web Service Client] Cannot get result from server - Method name: getTicketGroupTicketType Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)

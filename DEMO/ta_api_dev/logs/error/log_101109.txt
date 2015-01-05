@@ -1,0 +1,12 @@
+09/11/2010 09:26:22 [error]: sql error :usp_save_trans_ticket_type '782,959,892,62359,124,95,1000;',0,-1
+09/11/2010 09:26:39 [error]: sql error :usp_save_trans_ticket_type '783,960,892,62359,124,95,1000;',0,-1
+09/11/2010 09:28:59 [error]: sql error :usp_save_trans_ticket_type '784,961,892,62356,124,95,1000;',0,-1
+09/11/2010 13:57:02 [error]: [Web Service Client] Cannot get result from server - Method name: AddPayment Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+09/11/2010 13:57:05 [error]: [Web Service Client] Cannot get result from server - Method name: AddPayment Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+09/11/2010 13:57:10 [error]: [Web Service Client] Cannot get result from server - Method name: AddPayment Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+09/11/2010 13:57:12 [error]: [Web Service Client] Cannot get result from server - Method name: AddPayment Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+09/11/2010 13:57:13 [error]: [Web Service Client] Cannot get result from server - Method name: AddPayment Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+09/11/2010 13:57:16 [error]: [Web Service Client] Cannot get result from server - Method name: AddPayment Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+09/11/2010 13:58:13 [error]: [Web Service Client] Cannot get result from server - Method name: AddPayment Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+09/11/2010 13:58:14 [error]: [Web Service Client] Cannot get result from server - Method name: AddPayment Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+09/11/2010 14:00:46 [error]: sql error :usp_get_show_info_by_id ,1

@@ -1,0 +1,12 @@
+.ticketingButton {
+	background:url(./../images/movie/movie-cinema-with-price_13.png) no-repeat;
+	width: 80px;
+	height: 21px;
+	border: 0px;
+	color: #000000;
+	cursor:pointer;
+}
+.labelFont
+{
+	font-weight:bold;
+}

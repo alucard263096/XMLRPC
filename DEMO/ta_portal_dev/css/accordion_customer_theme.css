@@ -1,0 +1,49 @@
+/* Accordion
+----------------------------------*/
+.ui-accordion .ui-accordion-header { cursor: pointer; position: relative; margin-top: 1px; zoom: 1; }
+.ui-accordion li {display: inline;}
+.ui-accordion .ui-accordion-header-active { border-bottom: 0 !important; }
+.ui-accordion .ui-accordion-header a { display: block; font-size: 1.2em; font-weight: bold; font-family:Calibri, Arial, Helvetica, sans-serif;padding: .5em .5em .5em 2.2em; color:#ffffff }
+.ui-accordion .ui-accordion-header .ui-icon { position: absolute; left: .5em; top: 50%; margin-top: -8px; }
+.ui-accordion .ui-accordion-content { padding-left:8px; border-top: 0; margin-top: -2px; position: relative; top: 1px; margin-bottom: 2px; overflow: auto; display: none; }
+.ui-accordion .ui-accordion-content-active { display: block; }
+
+.ui-state-default_c
+{
+	border: 1px solid #C94E7C/*{borderColorDefault}*/; 
+	background: #e6e6e6/*{bgColorDefault}*/ url(../images/accordion_default_header_bg.png) /*{bgImgUrlDefault}*/ 50%/*{bgDefaultXPos}*/ 50%/*{bgDefaultYPos}*/ repeat-x  /*{bgDefaultRepeat}*/; 
+	font-weight: normal/*{fwDefault}*/; 
+	color: #555555/*{fcDefault}*/; 
+}
+
+.ui-corner-all_c 
+{ 
+	-moz-border-radius: 0px/*{cornerRadius}*/; 
+	-webkit-border-radius: 0px/*{cornerRadius}*/; 
+	border-radius: 0px/*{cornerRadius}*/; 
+}
+
+.ui-widget-content_c 
+{ 
+	border: 1px solid #C94E7C/*{borderColorContent}*/; 
+	background: #ffffff/*{bgColorContent}*/ 
+	url(../images/ui-bg_flat_75_ffffff_40x100.png)/*{bgImgUrlContent}*/ 50%/*{bgContentXPos}*/ 50%/*{bgContentYPos}*/ repeat-x/*{bgContentRepeat}*/; 
+	color: #222222/*{fcContent}*/; 
+}
+
+.ui-corner-bottom_c
+{ 
+	-moz-border-radius-bottomleft: 0px/*{cornerRadius}*/; 
+	-webkit-border-bottom-left-radius: 0px/*{cornerRadius}*/; 
+	border-bottom-left-radius: 0px/*{cornerRadius}*/; 
+	-moz-border-radius-bottomright: 0px/*{cornerRadius}*/; 
+	-webkit-border-bottom-right-radius: 0px/*{cornerRadius}*/; 
+	border-bottom-right-radius: 0px/*{cornerRadius}*/; 
+}
+.ui-state-hover_c,.ui-state-focus_c
+ {
+ 	border: 1px solid #C94E7C/*{borderColorHover}*/; 
+ 	background: #dadada/*{bgColorHover}*/ url(../images/accordion_default_header_bg.png)/*{bgImgUrlHover}*/ 80%/*{bgHoverXPos}*/ 80%/*{bgHoverYPos}*/ repeat-x/*{bgHoverRepeat}*/;
+ 	font-weight: normal/*{fwDefault}*/; 
+ 	color: #212121/*{fcHover}*/; 
+ }

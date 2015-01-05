@@ -1,0 +1,14 @@
+/* background style  */
+.bg_logo_ta {background-attachment: scroll;background-image: url(../images/zh-tc/top_logo_ticketasia.jpg);background-repeat: no-repeat;background-position: left top;}
+.bg_logo_tc {background-attachment: scroll;background-image: url(../images/zh-tc/top_logo_ticketchina.jpg);background-repeat: no-repeat;background-position: left top;}
+
+/* login */
+.button300{background:url(./../images/zh-tc/button_login_now.gif) no-repeat;width: 135px;height: 38px;border: 0px;cursor:pointer;}
+.button312{background:url(./../images/zh-tc/button_submit_registry_msg.gif) no-repeat;width: 135px;height: 38px;border: 0px;cursor:pointer;}
+.confirm_button{
+	background-image: url(../images/zh-tc/confirm_seat_but.jpg);
+	background-repeat: no-repeat;
+	width: 185px;
+	height: 43px;
+	border: 0px;
+}

@@ -1,0 +1,39 @@
+<table>
+
+<tr>
+<td>
+	<form name="asiapay" method="post" action="asiapay_wait.php"">
+	<table border="1" cellspacing="0" cellpadding="0" style="border-style: dotted;">
+	<tr><td>TransId:</td><td><input type="input" name="transid" value="260" ></td></tr>	
+	<tr><td>Order Ref:</td><td><input type="input" name="orderRef" value="" ></td></tr>		
+	<tr><td>Amount:</td><td><input type="input" name="amount" value="81" ></td></tr>	
+	<tr><td>Lang.:</td><td><input type="input" name="lang" VALUE="C"></td></tr>		
+	<tr><td colspan="2" align="right"><input type="submit" name="submit" value="Submit" /></td></tr>
+	</table>
+	<input type="hidden" name="pMtd" value="CP">
+	</form>
+</td>
+<td>
+	<form name="asiapay" method="post" action="asiapay_wait.php"">
+	<table border="1" cellspacing="0" cellpadding="0" style="border-style: dotted;">
+	<tr><td>TransId:</td><td><input type="input" name="transid" value="260" ></td></tr>		
+	<tr><td>Amount:</td><td><input type="input" name="amount" value="81" ></td></tr>
+	<tr><td>Order Ref:</td><td><input type="input" name="orderRef" value="" ></td></tr>
+	
+	<tr><td>Payment Method:</td><td><input type="input" name="pMethod" value="VISA" ></td></tr>
+	<tr><td>Card No.</td><td><input type="input" name="cardNo" value="4918914107195005" ></td></tr>
+	
+	<tr><td>Security Code:</td><td><input type="input" name="securityCode" value="123" ></td></tr>
+	
+	<tr><td>Expiry Month:</td><td><input type="input" name="epMonth" value="07" ></td></tr>
+	<tr><td>Expriy Year:</td><td><input type="input" name="epYear" value="2015" ></td></tr>
+	<tr><td>Card Holder:</td><td><input type="input" name="cardHolder" value="NO NAME" ></td></tr>
+
+	<tr><td>Lang.:</td><td><input type="input" name="lang" VALUE="C"></td></tr>
+	<tr><td colspan="2" align="right"><input type="submit" name="submit" value="Submit" /></td></tr>
+	</table>
+	<input type="hidden" name="pMtd" value="CC">
+	</form>
+</td>
+</tr>
+</table>

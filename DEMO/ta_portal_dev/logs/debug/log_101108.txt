@@ -1,0 +1,1012 @@
+08/11/2010 10:49:21 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getCountryCityDistrictList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 2) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:55:22 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:55:22 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:55:37 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:55:37 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:55:54 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:55:55 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:57:05 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getCountryCityDistrictList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:59:13 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getCountryCityDistrictList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getCountryCityDistrictList Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:59:16 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getCountryCityDistrictList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getCountryCityDistrictList Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:59:34 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getCountryCityDistrictList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getCountryCityDistrictList Error: -1 Message: No such handler: getCountryCityDistrictList
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:59:42 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:59:43 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 10:59:44 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:02 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getHotEventBanner Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:02 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:03 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:09 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeats Error: -1 Message: No such handler: getSeats
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:27 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getHotEventBanner Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:27 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:28 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeats Error: -1 Message: No such handler: getSeats
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:29 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeats Error: -1 Message: No such handler: getSeats
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:30 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeats Error: -1 Message: No such handler: getSeats
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:30 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeats Error: -1 Message: No such handler: getSeats
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:31 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeats Error: -1 Message: No such handler: getSeats
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:33 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:34 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:35 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:01:36 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:04:22 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:04:23 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:04:39 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:07:10 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getHotEventBanner Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:07:10 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:07:14 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:12:05 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:13:42 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (CinemaId => ) 
+[Web Service Client] (ShowDate => ) 
+[Web Service Client] (FilmId => ) 
+[Web Service Client] (ShowTime => ) 
+[Web Service Client] (HallId => ) 
+[Web Service Client] (SectionId => ) 
+[Web Service Client] (LockUserId => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:13:48 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (CinemaId => ) 
+[Web Service Client] (ShowDate => ) 
+[Web Service Client] (FilmId => ) 
+[Web Service Client] (ShowTime => ) 
+[Web Service Client] (HallId => ) 
+[Web Service Client] (SectionId => ) 
+[Web Service Client] (LockUserId => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:13:50 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (CinemaId => ) 
+[Web Service Client] (ShowDate => ) 
+[Web Service Client] (FilmId => ) 
+[Web Service Client] (ShowTime => ) 
+[Web Service Client] (HallId => ) 
+[Web Service Client] (SectionId => ) 
+[Web Service Client] (LockUserId => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:14:29 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (CinemaId => ) 
+[Web Service Client] (ShowDate => ) 
+[Web Service Client] (FilmId => ) 
+[Web Service Client] (ShowTime => ) 
+[Web Service Client] (HallId => ) 
+[Web Service Client] (SectionId => ) 
+[Web Service Client] (LockUserId => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 11:14:55 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (CinemaId => ) 
+[Web Service Client] (ShowDate => ) 
+[Web Service Client] (FilmId => ) 
+[Web Service Client] (ShowTime => ) 
+[Web Service Client] (HallId => ) 
+[Web Service Client] (SectionId => ) 
+[Web Service Client] (LockUserId => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:15:54 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:15:54 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getHotEventBanner Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:15:55 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (CinemaId => ) 
+[Web Service Client] (ShowDate => ) 
+[Web Service Client] (FilmId => ) 
+[Web Service Client] (ShowTime => ) 
+[Web Service Client] (HallId => ) 
+[Web Service Client] (SectionId => ) 
+[Web Service Client] (LockUserId => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:16:48 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (CinemaId => ) 
+[Web Service Client] (ShowDate => ) 
+[Web Service Client] (FilmId => ) 
+[Web Service Client] (ShowTime => ) 
+[Web Service Client] (HallId => ) 
+[Web Service Client] (SectionId => ) 
+[Web Service Client] (LockUserId => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:20:31 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getHotEventBanner Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:20:31 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: searchHotShow Error: 5 Message: Didn't receive 200 OK from remote server. (HTTP/1.1 404 Not Found)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:20:31 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (CinemaId => ) 
+[Web Service Client] (ShowDate => ) 
+[Web Service Client] (FilmId => ) 
+[Web Service Client] (ShowTime => ) 
+[Web Service Client] (HallId => ) 
+[Web Service Client] (SectionId => ) 
+[Web Service Client] (LockUserId => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:20:48 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No such handler: 
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:21:00 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No such handler: 
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:21:22 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (CinemaId => ) 
+[Web Service Client] (ShowDate => ) 
+[Web Service Client] (FilmId => ) 
+[Web Service Client] (ShowTime => ) 
+[Web Service Client] (HallId => ) 
+[Web Service Client] (SectionId => ) 
+[Web Service Client] (LockUserId => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:23:30 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (CinemaId => ) 
+[Web Service Client] (ShowDate => ) 
+[Web Service Client] (FilmId => ) 
+[Web Service Client] (ShowTime => ) 
+[Web Service Client] (HallId => ) 
+[Web Service Client] (SectionId => ) 
+[Web Service Client] (LockUserId => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:23:55 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:32:18 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:32:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:32:36 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:32:52 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:33:12 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:33:28 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:34:52 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:36:27 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:37:05 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: FPHandler.getSeats Error: -1 Message: No method matching arguments: java.util.HashMap
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:37:28 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:37:31 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:37:33 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:37:38 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:37:45 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:37:47 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:38:08 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:38:10 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:38:12 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:38:19 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:38:22 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:38:52 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:38:59 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:39:00 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:39:01 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:39:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:39:22 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 12:39:22 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: FPHandler.getSeats
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (0 => ) 
+[Web Service Client] (1 => ) 
+[Web Service Client] (2 => ) 
+[Web Service Client] (3 => ) 
+[Web Service Client] (4 => ) 
+[Web Service Client] (5 => ) 
+[Web Service Client] (6 => ) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 13:26:22 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getShowDetails Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 13:26:22 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatplanByShowId
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeatplanByShowId Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+08/11/2010 13:26:22 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatplanDetailByShowId
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 7) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Cannot get result from server - Method name: getSeatplanDetailByShowId Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

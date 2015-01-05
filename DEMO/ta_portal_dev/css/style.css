@@ -1,0 +1,165 @@
+.MainPanl {
+	width: 983px;
+}
+a{
+text-decoration:none;
+text-align:center;
+}
+
+/*     button style    */
+
+.violet_button{
+	FONT-WEIGHT: BOLD;
+	PADDING-RIGHT: 0PX; 
+	PADDING-LEFT: 0PX; 
+	border:0px;
+	cursor:pointer;
+	background-image:url(../images/violet.png);
+	width: 84px;
+	height: 24px;
+	color:#FFFFFF;
+}
+
+
+
+/*      font style    */
+.Declare {
+	font-size: 16px;
+	font-weight: bold;
+	color: #343434;
+}
+.font {
+	color: #656565;
+	font-size: 12px;
+	font-weight: bold;
+}
+.font1 {
+	font-weight: bold;
+	color: #AEAEAE;
+	font-size: 11px;
+}
+.font2 {
+ font-weight: bold; 
+ color: #787878; 
+ font-size: 11px; }
+.font3 {
+	color: #323232;
+	font-weight: bold;
+}
+ .HotlineText1{
+	font-size: 15px;
+	color: #878787;
+	font-weight: bold;
+ }
+.HotlineText2 {
+	font-weight: bold;
+	font-size: 9px;
+	color: #9D9D9D;
+}
+.HotlineDescription2 {
+	color: #FFFFFF; 
+	font-size: 11px;
+	font-weight: bold; 
+}
+
+/*           special style */
+
+.search_text {
+	border: 2px solid #747474;
+	background-color: #FFFFFF;
+	width: 192px;
+	height: 20px;
+}
+
+
+ .area{
+ background-image:url(../images/btn_gr_bg1.jpg);
+ }
+ .area .space{
+ background-image:url(../images/btn_space1.jpg);
+ width:1px;
+ }
+ .area .selected{
+ background-image:url(../images/btn_gr_bg2.jpg);
+ }
+ .area td{
+ 	width:65px;
+	color:#FFFFFF;
+	font-weight:bold;
+ }
+ div .panel{
+ width:100%;
+ }
+ 
+ .menu{
+ 	width:753px;
+ 	background-image:url(../images/red_menu_content2.gif);
+	height: 36px;
+	text-align:center;
+ }
+ .menu td{
+	width:100px;
+ }
+ .menu .space{
+ 	background-image:url(../images/red_menu_space1.jpg);
+	width:1px;
+ }
+ .menu a{
+ 	display:block;
+ 	width:103.9px;
+	height:26px;
+	color:#FFFFFF;
+	font-weight:bold;
+	padding-top:10px;
+	text-decoration:none;
+ }
+ 
+ .menu a:hover{
+ 	background-image:url(../images/red_menu_content1.gif);
+ }
+ 
+ .menu .menu2{
+ 	background-image:url(../images/red_menu_content3.gif);
+ }
+ .menu .menu2space{
+ 	background-image:url(../images/red_menu_space3.gif);
+	width:1px;
+ }
+ .menu .end{
+ 	background-image:url(../images/red_menu_end.gif);
+	width:1px;
+ }
+ 
+ .dropmenudiv{
+	position:absolute;
+	z-index:100;
+	visibility: hidden;
+	height:21px;
+ /*filter: progid:DXImageTransform.Microsoft.Shadow(color=#CACACA,direction=135,strength=4);Add Shadow in IE. Remove if desired*/
+}
+.dropmenudiv a{
+	background-image:url(../images/red_sub_menu_content.jpg);
+	width:100px;
+	height:21px;
+	display: block;
+	float:left;
+	color:#FFFFFF;
+	padding-top:2px;
+}
+.dropmenudiv a:hover{ 
+}
+
+.title{
+	font-size:16px;
+	font-weight:bold;
+	}
+
+.dialog{
+	display:none;
+	}
+.ui-progressbar-value { background-image: url(../images/pbar-ani.gif); }
+
+
+
+
+	

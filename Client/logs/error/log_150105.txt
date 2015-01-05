@@ -1,0 +1,1 @@
+05/01/2015 13:38:04 [error]: [Web Service Client] Cannot get result from server - Method name: GetMyName Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error: Invalid document end at line 2, column 1)

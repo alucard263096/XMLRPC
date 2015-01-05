@@ -1,0 +1,330 @@
+09/11/2010 14:13:06 [debug]: sql :usp_get_country '',2
+09/11/2010 14:13:06 [debug]: sql :usp_get_all_city '',2
+09/11/2010 14:13:06 [debug]: sql :usp_get_district '',2
+09/11/2010 14:13:06 [debug]: sql :usp_get_show_by_id 892,2
+09/11/2010 14:13:06 [debug]: sql :usp_search_hot_show -1,'WB',1,-1,-1,-1,214,N'','',2,''
+09/11/2010 14:13:06 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 14:13:06 [debug]: sql :usp_get_ticket_group_by_show_id 892,2
+09/11/2010 14:13:06 [debug]: sql :usp_get_area_ticket_group_by_show 892,2
+09/11/2010 14:13:06 [debug]: getAllDelivery:2
+09/11/2010 14:13:06 [debug]: sql :usp_get_delivery_type 0,2
+09/11/2010 14:15:50 [debug]: sql :usp_get_country '',2
+09/11/2010 14:15:50 [debug]: sql :usp_get_all_city '',2
+09/11/2010 14:15:50 [debug]: sql :usp_get_district '',2
+09/11/2010 14:15:50 [debug]: sql :usp_get_show_by_id 892,2
+09/11/2010 14:15:50 [debug]: sql :usp_search_hot_show -1,'WB',1,-1,-1,-1,214,N'','',2,''
+09/11/2010 14:15:50 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 14:15:50 [debug]: sql :usp_get_ticket_group_by_show_id 892,2
+09/11/2010 14:15:50 [debug]: sql :usp_get_area_ticket_group_by_show 892,2
+09/11/2010 14:15:51 [debug]: getAllDelivery:2
+09/11/2010 14:15:51 [debug]: sql :usp_get_delivery_type 0,2
+09/11/2010 14:17:07 [debug]: sql :usp_get_country '',2
+09/11/2010 14:17:07 [debug]: sql :usp_get_all_city '',2
+09/11/2010 14:17:07 [debug]: sql :usp_get_district '',2
+09/11/2010 14:17:07 [debug]: sql :usp_get_show_by_id 892,2
+09/11/2010 14:17:07 [debug]: sql :usp_search_hot_show -1,'WB',1,-1,-1,-1,214,N'','',2,''
+09/11/2010 14:17:07 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 14:17:07 [debug]: sql :usp_get_ticket_group_by_show_id 892,2
+09/11/2010 14:17:07 [debug]: sql :usp_get_area_ticket_group_by_show 892,2
+09/11/2010 14:17:07 [debug]: getAllDelivery:2
+09/11/2010 14:17:07 [debug]: sql :usp_get_delivery_type 0,2
+09/11/2010 14:19:18 [debug]: sql :usp_get_country '',2
+09/11/2010 14:19:18 [debug]: sql :usp_get_all_city '',2
+09/11/2010 14:19:18 [debug]: sql :usp_get_district '',2
+09/11/2010 14:19:18 [debug]: sql :usp_get_show_by_id 892,2
+09/11/2010 14:19:18 [debug]: sql :usp_search_hot_show -1,'WB',1,-1,-1,-1,214,N'','',2,''
+09/11/2010 14:19:18 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 14:19:18 [debug]: sql :usp_get_ticket_group_by_show_id 892,2
+09/11/2010 14:19:18 [debug]: sql :usp_get_area_ticket_group_by_show 892,2
+09/11/2010 14:19:18 [debug]: getAllDelivery:2
+09/11/2010 14:19:18 [debug]: sql :usp_get_delivery_type 0,2
+09/11/2010 14:25:08 [debug]: sql :usp_get_country '',2
+09/11/2010 14:25:08 [debug]: sql :usp_get_all_city '',2
+09/11/2010 14:25:09 [debug]: sql :usp_get_district '',2
+09/11/2010 14:25:09 [debug]: sql :usp_get_show_by_id 892,2
+09/11/2010 14:25:09 [debug]: sql :usp_search_hot_show -1,'WB',1,-1,-1,-1,214,N'','',2,''
+09/11/2010 14:25:09 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 14:25:09 [debug]: sql :usp_get_ticket_group_by_show_id 892,2
+09/11/2010 14:25:09 [debug]: sql :usp_get_area_ticket_group_by_show 892,2
+09/11/2010 14:25:09 [debug]: sql :usp_get_seat_ticket_group 892,'62357,',2
+09/11/2010 14:25:09 [debug]: sql :usp_get_seat_ticket_group 892,'62357,',2
+09/11/2010 14:25:09 [debug]: sql :usp_get_ticket_type_by_ticket_group_2 124,'WB',2
+09/11/2010 14:25:09 [debug]: getAllDelivery:2
+09/11/2010 14:25:09 [debug]: sql :usp_get_delivery_type 0,2
+09/11/2010 14:33:02 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 14:33:03 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 14:33:03 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 14:33:03 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 14:33:03 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:38:59 [debug]: sql :usp_get_country 'A',2
+09/11/2010 14:38:59 [debug]: sql :usp_get_all_city 'A',2
+09/11/2010 14:38:59 [debug]: sql :usp_get_district 'A',2
+09/11/2010 14:39:01 [debug]: sql :usp_search_hot_show 5,'WB',-1,-1,-1,-1,-1,N'','CO_P',2,''
+09/11/2010 14:39:01 [debug]: sql :usp_get_activity_start_end_date 194,-1
+09/11/2010 14:39:01 [debug]: sql :usp_get_activity_start_end_date 197,-1
+09/11/2010 14:39:01 [debug]: sql :usp_get_activity_start_end_date 204,-1
+09/11/2010 14:39:01 [debug]: sql :usp_get_activity_start_end_date 205,-1
+09/11/2010 14:39:01 [debug]: sql :usp_get_activity_start_end_date 206,-1
+09/11/2010 14:39:01 [debug]: sql :usp_get_activity_start_end_date 207,-1
+09/11/2010 14:39:01 [debug]: sql :usp_get_activity_start_end_date 208,-1
+09/11/2010 14:39:01 [debug]: sql :usp_get_activity_start_end_date 209,-1
+09/11/2010 14:39:01 [debug]: sql :usp_get_activity_start_end_date 212,-1
+09/11/2010 14:39:01 [debug]: sql :usp_get_activity_start_end_date 211,-1
+09/11/2010 14:39:01 [debug]: sql :usp_get_activity_start_end_date 1,-1
+09/11/2010 14:39:01 [debug]: sql :usp_search_hot_show 5,'WB',-1,-1,-1,-1,-1,N'','CO_RB',2,''
+09/11/2010 14:39:02 [debug]: sql :usp_search_hot_show 5,'WB',-1,-1,-1,-1,-1,N'','CO_RB',2,''
+09/11/2010 14:39:02 [debug]: sql :usp_search_hot_show 5,'WB',-1,-1,-1,-1,-1,N'','CO_P',2,''
+09/11/2010 14:39:02 [debug]: sql :usp_get_activity_start_end_date 194,-1
+09/11/2010 14:39:02 [debug]: sql :usp_get_activity_start_end_date 197,-1
+09/11/2010 14:39:02 [debug]: sql :usp_get_activity_start_end_date 204,-1
+09/11/2010 14:39:02 [debug]: sql :usp_get_activity_start_end_date 205,-1
+09/11/2010 14:39:02 [debug]: sql :usp_get_activity_start_end_date 206,-1
+09/11/2010 14:39:02 [debug]: sql :usp_get_activity_start_end_date 207,-1
+09/11/2010 14:39:02 [debug]: sql :usp_get_activity_start_end_date 208,-1
+09/11/2010 14:39:02 [debug]: sql :usp_get_activity_start_end_date 209,-1
+09/11/2010 14:39:02 [debug]: sql :usp_get_activity_start_end_date 212,-1
+09/11/2010 14:39:02 [debug]: sql :usp_get_activity_start_end_date 211,-1
+09/11/2010 14:39:02 [debug]: sql :usp_get_activity_start_end_date 1,-1
+09/11/2010 14:39:03 [debug]: sql :usp_search_hot_show 7,'WB',1,-1,-1,-1,-1,N'','MO_MHRB',2,''
+09/11/2010 14:39:03 [debug]: sql :usp_search_hot_show 7,'WB',1,-1,-1,-1,-1,N'','',2,''
+09/11/2010 14:39:03 [debug]: sql :usp_get_organizer_venue 1,-1,-1,2
+09/11/2010 14:39:03 [debug]: sql :usp_search_hot_show 7,'WB',1,-1,-1,-1,-1,N'','MO_P',2,''
+09/11/2010 14:39:03 [debug]: sql :usp_search_hot_show 7,'WB',1,-1,-1,-1,-1,N'','MO_P',2,''
+09/11/2010 14:39:03 [debug]: sql :usp_get_activity_start_end_date 97,1
+09/11/2010 14:39:03 [debug]: sql :usp_get_activity_start_end_date 103,1
+09/11/2010 14:39:03 [debug]: sql :usp_get_activity_start_end_date 108,1
+09/11/2010 14:39:03 [debug]: sql :usp_get_activity_start_end_date 117,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 107,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 112,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 114,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 115,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 93,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 91,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 88,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 83,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 80,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 70,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 69,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 68,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 67,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 62,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 48,1
+09/11/2010 14:39:04 [debug]: sql :usp_get_activity_start_end_date 37,1
+09/11/2010 14:39:07 [debug]: sql :usp_get_show_by_id 892,2
+09/11/2010 14:39:07 [debug]: sql :usp_search_hot_show 7,'WB',1,-1,-1,-1,214,N'','',2,''
+09/11/2010 14:39:07 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 14:39:07 [debug]: sql :usp_get_ticket_group_by_show_id 892,2
+09/11/2010 14:39:07 [debug]: sql :usp_get_area_ticket_group_by_show 892,2
+09/11/2010 14:39:07 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 14:39:07 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 14:39:07 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 14:39:07 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 14:39:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:41:20 [debug]: sql :usp_get_country '',2
+09/11/2010 14:41:20 [debug]: sql :usp_get_all_city '',2
+09/11/2010 14:41:20 [debug]: sql :usp_get_district '',2
+09/11/2010 14:41:20 [debug]: sql :usp_get_show_by_id 892,2
+09/11/2010 14:41:20 [debug]: sql :usp_search_hot_show 0,'WB',1,-1,-1,-1,214,N'','',2,''
+09/11/2010 14:41:20 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 14:41:20 [debug]: sql :usp_get_ticket_group_by_show_id 892,2
+09/11/2010 14:41:20 [debug]: sql :usp_get_area_ticket_group_by_show 892,2
+09/11/2010 14:41:20 [debug]: sql :usp_get_seat_ticket_group 892,'62357,',2
+09/11/2010 14:41:20 [debug]: sql :usp_get_seat_ticket_group 892,'62357,',2
+09/11/2010 14:41:20 [debug]: sql :usp_get_ticket_type_by_ticket_group_2 124,'WB',2
+09/11/2010 14:41:20 [debug]: getAllDelivery:2
+09/11/2010 14:41:20 [debug]: sql :usp_get_delivery_type 0,2
+09/11/2010 14:41:47 [debug]: sql :usp_get_seat_ticket_group 892,'62357',2
+09/11/2010 14:41:47 [debug]: sql :usp_set_trans 0,-1,'WB',892,'62357',N'aaa',1,'asd@a.com','86','123123123',0
+09/11/2010 14:41:47 [debug]: sql :usp_insert_payment_info 786,'','','','P',0,'','','DC',-1
+09/11/2010 14:41:47 [debug]: sql :usp_save_order 963
+09/11/2010 14:41:47 [debug]: sql :usp_save_trans_ticket_type '786,963,892,62357,124,95,1001;',0,-1
+09/11/2010 14:41:47 [debug]: sql :usp_update_trans_delivery 786,1,N'','','','','','',''
+,'','',N'',N'',0,1
+09/11/2010 14:41:47 [debug]: sql :usp_get_trans_payment_info 786,2
+09/11/2010 14:41:47 [debug]: sql :usp_insert_asiapay_auth_log '786','WB104840','100.00','344','C','88103054','CHINAPAY','','','','','','N'
+09/11/2010 14:44:53 [debug]: sql :usp_get_show_by_id 892,2
+09/11/2010 14:44:53 [debug]: sql :usp_search_hot_show 7,'WB',1,-1,-1,-1,214,N'','',2,''
+09/11/2010 14:44:53 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 14:44:53 [debug]: sql :usp_get_ticket_group_by_show_id 892,2
+09/11/2010 14:44:53 [debug]: sql :usp_get_area_ticket_group_by_show 892,2
+09/11/2010 14:44:53 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 14:44:53 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 14:44:53 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 14:44:53 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 14:44:53 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 14:52:34 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 14:52:34 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 14:52:34 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 14:52:34 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 14:52:34 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:02:59 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:03:02 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:04:18 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 15:04:18 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 15:04:18 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 15:04:18 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 15:04:18 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:17:13 [debug]: sql :usp_get_country '',2
+09/11/2010 15:17:13 [debug]: sql :usp_get_all_city '',2
+09/11/2010 15:17:13 [debug]: sql :usp_get_district '',2
+09/11/2010 15:17:14 [debug]: sql :usp_get_show_by_id 892,2
+09/11/2010 15:17:14 [debug]: sql :usp_search_hot_show -1,'WB',1,-1,-1,-1,214,N'','',2,''
+09/11/2010 15:17:14 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 15:17:14 [debug]: sql :usp_get_ticket_group_by_show_id 892,2
+09/11/2010 15:17:14 [debug]: sql :usp_get_area_ticket_group_by_show 892,2
+09/11/2010 15:17:14 [debug]: sql :usp_get_seat_ticket_group 892,'62359,',2
+09/11/2010 15:17:14 [debug]: sql :usp_get_seat_ticket_group 892,'62359,',2
+09/11/2010 15:17:14 [debug]: sql :usp_get_ticket_type_by_ticket_group_2 124,'WB',2
+09/11/2010 15:17:14 [debug]: getAllDelivery:2
+09/11/2010 15:17:14 [debug]: sql :usp_get_delivery_type 0,2
+09/11/2010 15:17:24 [debug]: sql :usp_get_seat_ticket_group 892,'62359',2
+09/11/2010 15:17:24 [debug]: sql :usp_set_trans 0,-1,'WB',892,'62359',N'asdasd',1,'asd@a.com','86','123123123',0
+09/11/2010 15:17:24 [debug]: sql :usp_insert_payment_info 787,'','','','P',0,'','','DC',-1
+09/11/2010 15:17:24 [debug]: sql :usp_save_order 964
+09/11/2010 15:17:24 [debug]: sql :usp_save_trans_ticket_type '787,964,892,62359,124,95,1002;',0,-1
+09/11/2010 15:17:24 [debug]: sql :usp_update_trans_delivery 787,1,N'','','','','','',''
+,'','',N'',N'',0,1
+09/11/2010 15:17:24 [debug]: sql :usp_get_trans_payment_info 787,2
+09/11/2010 15:17:24 [debug]: sql :usp_insert_asiapay_auth_log '787','WB104850','100.00','344','C','88103054','CHINAPAY','','','','','','N'
+09/11/2010 15:18:03 [debug]: sql :usp_get_trans_by_ref_no 'WB104850'
+09/11/2010 15:18:03 [debug]: sql :usp_update_payment_status 787,'C','',''
+09/11/2010 15:18:03 [debug]: sql :usp_update_trans_status 787,'CC'
+09/11/2010 15:18:03 [debug]: sql :usp_payment 787,'C',''
+09/11/2010 15:18:07 [debug]: sql :usp_search_hot_show 7,'WB',1,-1,-1,-1,-1,N'','MO_MHRB',2,''
+09/11/2010 15:18:07 [debug]: sql :usp_search_hot_show 7,'WB',1,-1,-1,-1,-1,N'','MO_P',2,''
+09/11/2010 15:18:07 [debug]: sql :usp_search_hot_show 7,'WB',1,-1,-1,-1,-1,N'','MO_P',2,''
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 97,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 103,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 108,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 117,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 107,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 112,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 114,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 115,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 93,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 91,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 88,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 83,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 80,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 70,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 69,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 68,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 67,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 62,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 48,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_activity_start_end_date 37,1
+09/11/2010 15:18:07 [debug]: sql :usp_get_organizer_venue 1,-1,-1,2
+09/11/2010 15:18:07 [debug]: sql :usp_search_hot_show 7,'WB',1,-1,-1,-1,-1,N'','MO_P',2,''
+09/11/2010 15:18:10 [debug]: sql :usp_get_show_by_id 892,2
+09/11/2010 15:18:10 [debug]: sql :usp_search_hot_show 7,'WB',1,-1,-1,-1,214,N'','',2,''
+09/11/2010 15:18:10 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 15:18:10 [debug]: sql :usp_get_ticket_group_by_show_id 892,2
+09/11/2010 15:18:10 [debug]: sql :usp_get_area_ticket_group_by_show 892,2
+09/11/2010 15:18:10 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 15:18:10 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 15:18:10 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 15:18:10 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 15:18:10 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:25:36 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 15:25:36 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 15:25:36 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 15:25:36 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 15:25:36 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:33:18 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 15:33:18 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 15:33:18 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 15:33:18 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 15:33:18 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:43:00 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 15:43:00 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 15:43:00 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 15:43:00 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 15:43:00 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:51:11 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 15:51:11 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 15:51:11 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 15:51:11 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 15:51:11 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 15:52:04 [debug]: sql :usp_get_country '',2
+09/11/2010 15:52:04 [debug]: sql :usp_get_all_city '',2
+09/11/2010 15:52:04 [debug]: sql :usp_get_district '',2
+09/11/2010 15:52:04 [debug]: sql :usp_get_show_by_id 892,2
+09/11/2010 15:52:04 [debug]: sql :usp_search_hot_show -1,'WB',1,-1,-1,-1,214,N'','',2,''
+09/11/2010 15:52:04 [debug]: sql :usp_get_activity_start_end_date 214,1
+09/11/2010 15:52:04 [debug]: sql :usp_get_ticket_group_by_show_id 892,2
+09/11/2010 15:52:04 [debug]: sql :usp_get_area_ticket_group_by_show 892,2
+09/11/2010 15:52:04 [debug]: sql :usp_get_seat_ticket_group 892,'62359,',2
+09/11/2010 15:52:04 [debug]: sql :usp_get_seat_ticket_group 892,'62359,',2
+09/11/2010 15:52:04 [debug]: sql :usp_get_ticket_type_by_ticket_group_2 124,'WB',2
+09/11/2010 15:52:04 [debug]: getAllDelivery:2
+09/11/2010 15:52:04 [debug]: sql :usp_get_delivery_type 0,2
+09/11/2010 15:52:14 [debug]: sql :usp_get_seat_ticket_group 892,'62359',2
+09/11/2010 15:52:14 [debug]: sql :usp_set_trans 0,-1,'WB',892,'62359',N'asdasd',1,'asd@asd.com','86','123123123',0
+09/11/2010 15:52:14 [debug]: sql :usp_insert_payment_info 788,'','','','P',0,'','','DC',-1
+09/11/2010 15:52:14 [debug]: sql :usp_save_order 965
+09/11/2010 15:52:14 [debug]: sql :usp_save_trans_ticket_type '788,965,892,62359,124,95,1003;',0,-1
+09/11/2010 15:52:14 [debug]: sql :usp_update_trans_delivery 788,1,N'','','','','','',''
+,'','',N'',N'',0,1
+09/11/2010 15:52:14 [debug]: sql :usp_get_trans_payment_info 788,2
+09/11/2010 15:52:14 [debug]: sql :usp_insert_asiapay_auth_log '788','WB104860','100.00','344','C','88103054','CHINAPAY','','','','','','N'
+09/11/2010 15:59:03 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 15:59:03 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 15:59:03 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 15:59:03 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 15:59:03 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 16:17:27 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 16:17:27 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 16:17:27 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 16:17:27 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 16:17:27 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 16:18:44 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 16:18:44 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 16:18:44 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 16:18:44 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 16:18:44 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 16:23:24 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 16:23:24 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 16:23:24 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 16:23:24 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 16:23:24 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+09/11/2010 16:26:20 [debug]: sql :usp_get_show_info_by_id 892,1
+09/11/2010 16:26:20 [debug]: sql :usp_get_floor_seat_plan_detail_by_show_id 892
+09/11/2010 16:26:20 [debug]: sql :usp_get_seatplan_by_show 892,0
+09/11/2010 16:26:20 [debug]: sql :usp_fp_get_seatplan_parameter_data_by_show_id 892
+09/11/2010 16:26:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Got result from server - result size: 1
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

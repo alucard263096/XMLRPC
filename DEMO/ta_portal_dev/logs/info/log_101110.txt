@@ -1,0 +1,22 @@
+10/11/2010 04:03:48 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+10/11/2010 04:03:48 [info]: [Asiapay] Checking feed: 
+10/11/2010 04:03:48 [info]: [Asiapay] Set Payment Result 
+10/11/2010 04:03:48 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+10/11/2010 04:03:48 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => WB104870)
+[Payment] (result => Y)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+10/11/2010 07:11:32 [info]: [Asiapay] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+10/11/2010 07:11:32 [info]: [Asiapay] Checking feed: 
+10/11/2010 07:11:32 [info]: [Asiapay] Set Payment Result 
+10/11/2010 07:11:32 [info]: [Asiapay] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+10/11/2010 07:11:32 [info]: [Payment] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+[Payment] Param to booking server: 
+[Payment] (ref_no => WB104890)
+[Payment] (result => Y)
+[Payment] (fail_remark => )
+[Payment] Result from booking server: Error: 2 Message: Invalid return payload: enable debugging to examine incoming payload (XML error at line 1, check URL)
+[Payment] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 

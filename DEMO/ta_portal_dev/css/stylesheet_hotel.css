@@ -1,0 +1,110 @@
+/* CSS Document */
+
+.textlen {background:#EEEEEE;width:400px;height:25px;size:12px;font-weight:bold;}
+.textlen2 {background:#EEEEEE;width:400px;height:25px;size:12px;font-weight:bold;color:#E67D08}
+.textlen3 {width:393px;height:25px;size:12px;font-weight:bold;}
+.address {background:white;width:400px;height:55px;font-size:18px;font-weight:bold;color:#E67D08}
+.titleText {background:#808080;color:white;font-size:15px;font-weight:bold;line-height:30px;height:30px;}
+.money {background:#EEEEEE;font-size:20px;font-weight:bold;line-height:20px;height:20px;color:#black}
+.description {background:white;height:30px;line-height:30px;font-size:20px;font-weight:bold;color:#E67D08}
+.description2 {background:#EEEEEE;height:500px;width:500px;font-size:12px;font-weight:bold;}
+.hotelText1 {background:white;width:120px;font-size:13px;font-weight:bold;color:#E67D08}
+.hotelText2 {background:white;font-size:13px;}
+.priceTbl {background:#EEEEEE;width:70px;height:25px;font-size:13px;font-weight:bold;text-align:center;border:solid #000 1px;}
+.priceTbl2 {background:#EEEEEE;font-size:13px;color:red;font-weight:bold;text-align:center;border:solid #000 1px;}
+
+//.ui-tabs .ui-tabs-hide {display: none;}
+
+//validata style
+.jfVal {
+        position: absolute;
+        z-index: 1110;
+}
+.jValSpacer {
+        position: absolute;
+        width: 0px;
+        float: left;
+}
+.jValSpacercover {
+        background: #eee url(eeGrad2.gif) bottom repeat-x;
+        border: 1px solid #ccc;
+        border-right: 0px;
+}
+.jValSpacerpod {
+        background: #f0f2f5 url(f0f2f5grad.gif) bottom repeat-x;
+        border: 1px solid #ccc;
+        border-right: 0px;
+}
+.jValSpacerblank {
+        height: 16px !important;
+        opacity: 0.6;
+}
+.jfVal .icon {
+        float: left;
+}
+.jfVal .iconcover {
+        background: #eee url(eeGrad2.gif) bottom repeat-x;
+        border: 1px solid #ccc;
+        border-width: 1px 0px;
+        width: 20px;
+        text-align: left;
+}
+.jfVal .iconpod {
+        background: #f0f2f5 url(f0f2f5grad.gif) bottom repeat-x;
+        border: 1px solid #ccc;
+        border-left: 0px;
+        -moz-border-radius-topright: 3px;
+        -moz-border-radius-bottomright: 3px;
+        -webkit-border-top-right-radius: 3px;
+        -webkit-border-bottom-right-radius: 3px;
+        width: 20px;
+        text-align: left;
+}
+.jfVal .iconblank {
+        background: #fff;
+        margin-top: -4px;
+        height: 20px !important;
+        padding-left: 5px;
+}
+.jfVal .icon .iconbg {
+        background: url(warning.gif) center left no-repeat;
+        height: 100%;
+        width: 16px;
+}
+.jfVal .content {
+        color: red;
+        vertical-align: middle;
+        white-space: nowrap;
+        float: left;
+        padding-right: 5px;
+}
+.jfVal .contentcover {
+        background: #eee url(eeGrad2.gif) bottom repeat-x;
+        border: 1px solid #ccc;
+        border-left: 0px;
+        -moz-border-radius-topright: 3px;
+        -moz-border-radius-bottomright: 3px;
+        -webkit-border-top-right-radius: 3px;
+        -webkit-border-bottom-right-radius: 3px;
+}
+.jfVal .messagepod {
+        opacity: 0.8;
+        background: #fff;
+        padding: 2px 5px;
+}
+.jfVal .messageblank {
+        background: #fff;
+        padding: 2px 5px;
+}
+#form_blank input[type=text], #form_blank [jVal] {
+        padding-top:3px;
+}
+
+#imgPreviewWithStyles {
+                background: #E9EC68 url(img/loading.gif) no-repeat center;
+                -moz-border-radius: 5px;
+                -webkit-border-radius: 5px;
+                padding: 5px;
+                z-index: 999;
+                border: #E91B68;
+}

@@ -1,0 +1,951 @@
+23/10/2010 12:05:47 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getCountryCityDistrictList
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => 2) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:05:56 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:05:57 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:06:05 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:06:05 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:06:15 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 2) 
+[Web Service Client] (page_to => 2) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:06:19 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:06:22 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 863) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:06:29 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:06:29 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:06:36 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 2) 
+[Web Service Client] (page_to => 2) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:06:41 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:10:16 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:10:16 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:10:20 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 2) 
+[Web Service Client] (page_to => 2) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:11:31 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getHotEventBanner
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_RB) 
+[Web Service Client] (banner => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:11:32 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: searchHotShow
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (city_id => -1) 
+[Web Service Client] (district_id => -1) 
+[Web Service Client] (organizer_id => -1) 
+[Web Service Client] (venue_id => -1) 
+[Web Service Client] (activity_id => -1) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (keyword => ) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (select_city => 0) 
+[Web Service Client] (page_from => 1) 
+[Web Service Client] (page_to => 1) 
+[Web Service Client] (page_count => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (score_type => activity_id) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:11:35 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:11:56 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:16:49 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:18:55 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:19:42 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:23:43 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:24:17 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:25:51 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:28:33 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:29:57 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:30:28 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:30:37 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplan
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 5) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 203
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:30:38 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatStyle
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 5) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:30:38 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplanDetail
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 5) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 8
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:30:54 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCountry
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:30:54 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryCity
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 3
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:30:55 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getDeliveryDistrict
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 5
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:30:56 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (seat_list => 1) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => payease) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:30:56 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (seat_list => 1) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => payease) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 0
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:30:57 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getTicketGroupTicketType
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (seat_list => 1) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => payease) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 0
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:30:57 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAllDelivery
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (category_id => 0) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (seat_list => 1) 
+[Web Service Client] (ticket_group_id => ) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (staff_id => -1) 
+[Web Service Client] (member_id => 0) 
+[Web Service Client] (payment_gateway_type => payease) 
+[Web Service Client] (show_type => SS) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 4
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:31:21 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:32:43 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:33:27 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplan
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 561
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:33:27 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatStyle
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:33:28 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplanDetail
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 8
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:33:43 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplan
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 561
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:33:44 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatStyle
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:33:44 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplanDetail
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 8
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:33:54 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplan
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 561
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:33:54 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatStyle
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:33:55 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplanDetail
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 8
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:34:12 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplan
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 561
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:34:13 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatStyle
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:34:13 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplanDetail
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 1) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 8
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:36:07 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:36:18 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplan
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 561
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:36:18 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatStyle
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:36:19 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplanDetail
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 1) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 8
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:38:48 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getShowDetails
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 69
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:39:01 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplan
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 5) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 203
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:39:01 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatStyle
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 5) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:39:01 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplanDetail
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 5) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 8
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:39:16 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplan
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 5) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 203
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:39:19 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getSeatStyle
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 5) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 2
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+23/10/2010 12:39:23 [debug]: [Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[Web Service Client] Calling server - Method name: getAreaSeatplanDetail
+[Web Service Client] Calling server - Params: 
+[Web Service Client] (show_id => 891) 
+[Web Service Client] (category_id => 5) 
+[Web Service Client] (purchase_way => WB) 
+[Web Service Client] (lang_id => 2) 
+[Web Service Client] (image_type => CO_P) 
+[Web Service Client] (st_code => SS) 
+[Web Service Client] (city_id => 3) 
+[Web Service Client] (area_id => 5) 
+[Web Service Client] (ticket_group_id => 2) 
+[Web Service Client] Calling server - Params End. 
+[Web Service Client] Got result from server - result size: 8
+[Web Service Client] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
