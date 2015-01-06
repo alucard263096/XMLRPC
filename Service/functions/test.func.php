@@ -4,7 +4,9 @@
  	return "My name is Steve";
  }
 
- function addAB($a,$b){
+ function addAB($args){
+	$a=$args["a"];
+	$b=$args["b"];
 	return $a+$b;
  }
 

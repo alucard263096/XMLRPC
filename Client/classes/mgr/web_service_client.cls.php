@@ -76,7 +76,7 @@ class WebServiceClient {
 		}
 	}
 	
-	public function getResultFromServer($obj, $method = '') {
+	public function getResult($obj, $method = '') {
 		$log_str = "[Web Service Client] >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 		if (is_array($obj) && $method != '') {
 			$log_str .= "[Web Service Client] Calling server - Method name: ".$method."\n";
